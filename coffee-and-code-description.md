@@ -1,6 +1,6 @@
 Olá Lisbon FreeCodeCampers,
 
-Ai está o __º evento FreeCodeCamp Lisbon, no próximo _______ das 10 às 12 da manhã na Edge Portugal, na Alameda dos Oceanos, nº 115.
+Ai está o **X**º evento FreeCodeCamp Lisbon, no próximo **X** das 10 às 12 da manhã na Edge Portugal, na Alameda dos Oceanos, nº 115.
 
 A ideia deste encontro é de conhecer novas pessoas que não estiveram presentes nos passados eventos e depois passamos a uma hora a programar e, no final, partilha de duvidas e conviver um pouco.
 
