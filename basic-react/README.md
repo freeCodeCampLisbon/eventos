@@ -8,7 +8,7 @@
 
 
 ## Description:
-In this meetup of FreeCodeCamp Lisbon there will be an introduction to React's bascic concepts. You will also start building the first of FreeCodeCamp's React challenges, the Markdown Previewer. For this, you will do pair-programming.
+In this meetup of FreeCodeCamp Lisbon there will be an introduction to React's basic concepts. You will also start building the first of FreeCodeCamp's React challenges, the Markdown Previewer. For this, you will do pair-programming.
 
 ## Detailed Description:
 ### 1. Understanding (60 min.)
