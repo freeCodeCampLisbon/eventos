@@ -1,4 +1,4 @@
-# # Basic React Workshop
+# Basic React Workshop
 
 * **Event Name:** Thinking In React: Understand React's Basic Concepts and Gain Hands-On Experience!
 * **Day:** 19th of May
@@ -32,12 +32,13 @@ In this meetup of FreeCodeCamp Lisbon there will be an introduction to React's b
 * Good mood
 * Curiosity
 
-## You have to have this tools installed:
+## You have to have these tools installed:
 * Command Line. If you [follow this tutorial](https://www.youtube.com/watch?v=rl7PzPAZDyY&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf) then you have all the knowledge you need to have for this workshop.
 * Node + NPM
 	* Here's a tutorial on how to install Node and NPM for [Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows) users
 	* Here's an tutorial on how to install Node and NPM for [macOS](http://blog.teamtreehouse.com/install-node-js-npm-mac) users
-* create-react-app Client installed globally via NPM (just enter "npm install -g create-react-app" in the command line)
+* create-react-app Client installed globally via NPM
+	* To install, just enter "npm install -g create-react-app" in the command line
 * Visual Studio Code (aka VSCode), [download here](https://code.visualstudio.com/), or any similar Code Editor.
 * *optional* For sharing your code during pair programming, you should have Git installed locally, and have a Github account
 
