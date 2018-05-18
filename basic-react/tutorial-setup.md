@@ -59,4 +59,4 @@ There is already one React component defined. It is called **App** and it is in 
 
 We now have an empty App.js file, and it's time to really get started.
 
-Next: [Step 1: Start with a mock, and break the UI into a component hierarchy](tutorial-step-1.md)
+Next: [Step 1: Start with a mock, and break the UI into a component hierarchy](tutorial-step1.md)
