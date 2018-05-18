@@ -2,7 +2,7 @@
 
 ## Step 1: Start with a mock, and break the UI into a component hierarchy
 
-According to our **Thinking in React** guide, before we actually code, we start with a mock. This is true for building React apps, but it is generally a good practice to create a mock before coding!
+According to our [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) guide, before we actually code, we start with a **mock**. This is true for building React apps, but it is generally a good practice to create a mock before coding!
 
 ### What the mock?!
 
@@ -21,8 +21,8 @@ Let's explore the mock:
 We see that we have three components:
 
 We have a parent component (red). It has a headline, and two child components:
-* MarkdownInput (blue): Here users can enter markdown
-* HtmlOutput (green): It displays the entered markdown as HTML
+* MarkdownInput (blue): It has a textarea where users can enter markdown
+* HtmlOutput (green): It has a div that displays the entered markdown as HTML
 
 This time, the mock was already created for you. In future, you should do it yourself. You can do it online on [draw.io](https://draw.io). Or you can use tools like [Pencil](https://pencil.evolus.vn/) or [Balsamiq](https://balsamiq.com/) for your desktop.
 
